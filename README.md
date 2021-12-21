@@ -1,2 +1,2 @@
 # leetcode
-Solving tasks from leetcode
+Solving tasks using Golang from leetcode
